@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Palanga Nkobi
+- 👀 I’m interested in making industry relevant systems.
+- 🌱 I’m currently learning react.js
